@@ -1,0 +1,1 @@
+Discord bot that plays .mp3 streams on voice channel and updates it's status based on the playing "song".
